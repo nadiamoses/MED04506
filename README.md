@@ -16,6 +16,6 @@ A number of assumptions were made
 
 ## How to install and run the project
 
-python version 3
-SQLite 3
-pandas 
+- python version 3
+- SQLite 3
+- pandas 
