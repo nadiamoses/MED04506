@@ -12,7 +12,7 @@ A number of assumptions were made prior to the task
 - there are no pets in the homes
 - there are no visitors to the homes
 - sensors have the same placement in all homes
-- all sensors are the same and operate with same performance
+- all sensors are the same model and operate with same performance
 
 All work is carried out in the prediction_model.ipynb.
 
