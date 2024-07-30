@@ -5,7 +5,7 @@ The aim of this model is to create a simple model to predict whether a household
 
 ## Approach 
 
-A number of assumptions were made
+A number of assumptions were made prior to the task
 - average walking speed between rooms
 - size of rooms are equal
 - all homes have the same layout
@@ -13,6 +13,8 @@ A number of assumptions were made
 - there are no visitors to the homes
 - sensors have the same placement in all homes
 - all sensors are the same and operate with same performance
+
+All work is carried out in the prediction_model.ipynb.
 
 ## Running the project
 Libraries used
