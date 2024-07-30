@@ -14,8 +14,8 @@ A number of assumptions were made
 - sensors have the same placement in all homes
 - all sensors are the same and operate with same performance
 
-## How to install and run the project
-
+## Running the project
+Libraries used
 - python version 3
 - SQLite 3
 - pandas 
